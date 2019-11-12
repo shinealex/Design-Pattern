@@ -8,5 +8,5 @@ Please reach out me in case of any clarification or doubt shinekuttiadi@gmail.co
 
 a)	Builder Design Pattern.
 
-In the package <b>shine.designPattern.designPattern.creational.builder<b>,  It is given with simple example. There is two class one in Candidate the object which have to be created. Once this object is created there is no room for changing it and also separated the construction and representation of creation.  Candidate object are immutable too   and good candidate for multithreading application too.
+In the package <b>shine.designPattern.designPattern.creational.builder</b>,  It is given with simple example. There is two class one in Candidate the object which have to be created. Once this object is created there is no room for changing it and also separated the construction and representation of creation.  Candidate object are immutable too   and good candidate for multithreading application too.
 

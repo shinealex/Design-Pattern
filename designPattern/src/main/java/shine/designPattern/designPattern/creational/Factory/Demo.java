@@ -9,9 +9,7 @@ public class Demo {
 		Supplier<InterviewFactory> interwiewFactory = InterviewFactory::new;
 		
 		interwiewFactory.get().getInterview("JAVAINTERVIEW").doInterview();
-		
 		interwiewFactory.get().getInterview("PYTHONINTERVIEW").doInterview();
 		
 	}
-
 }

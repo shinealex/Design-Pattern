@@ -1,4 +1,4 @@
-package shine.designPattern.designPattern.behavior.decorator;
+package shine.designPattern.designPattern.structural.decorator;
 
 public abstract class SpecialCandidateDecorator implements CandidateonBoard {
 	

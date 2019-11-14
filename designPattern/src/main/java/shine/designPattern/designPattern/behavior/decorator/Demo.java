@@ -1,6 +1,5 @@
 package shine.designPattern.designPattern.behavior.decorator;
 
-import java.util.function.Supplier;
 
 /**
  * @author Shine!!!
